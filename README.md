@@ -1,2 +1,2 @@
-# kavyafinal
+# Cryptoverse
 Created with CodeSandbox
